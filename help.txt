@@ -1,0 +1,11 @@
+running python command through uv run [file]:
+uv run main.py
+
+for formatting:
+uv run ruff format
+uvx ruff format
+
+uv add pandas
+uv remove pandas
+
+uv tree
